@@ -4,7 +4,7 @@
 
 
 ## Description:<br>
-This is fully functiong Full Stack e-commerce web application. Browse the different categories, add to your cart and even sign in/sign up to checkout! (although it is only a test checkout for learning purposes) <br><br>
+This is a fully functiong Full Stack e-commerce web application. Browse the different categories, add to your cart and even sign in/sign up to checkout! (although it is only a test checkout for learning purposes) <br><br>
 
 
 ## Technologies used:
